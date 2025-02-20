@@ -1,7 +1,7 @@
 # Automatic data clustering using nature inspired symbiotic organism search algorithm
 
 implementation of Automatic data clustering using nature inspired symbiotic organism search algorithm paper
-[Implementation of this article](https://www.sciencedirect.com/science/article/pii/S0950705118304647)
+[article](https://www.sciencedirect.com/science/article/pii/S0950705118304647)
 
 ## Features
 
